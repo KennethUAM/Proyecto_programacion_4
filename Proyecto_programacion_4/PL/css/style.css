@@ -33,3 +33,31 @@ video {
     min-height: 100%;
 
 }
+
+.conte{
+
+  
+    margin: auto;
+    text-align:center;
+
+
+}
+
+.navegar {
+    width: 1000px;
+    margin: 30px auto;
+    /* background: white;*/
+}
+
+.navegar ul{
+    list-style: none;
+
+
+
+}
+
+.menu > li {
+    /*  position: relative; */
+    display: inline-block;
+
+}

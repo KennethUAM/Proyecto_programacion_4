@@ -1,0 +1,6 @@
+C:\Users\Kenneth\Desktop\Proyecto_final\Proyecto_programacion_4\DAL\bin\Debug\DAL.dll
+C:\Users\Kenneth\Desktop\Proyecto_final\Proyecto_programacion_4\DAL\bin\Debug\DAL.pdb
+C:\Users\Kenneth\Desktop\Proyecto_final\Proyecto_programacion_4\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\Proyecto_final\Proyecto_programacion_4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\Proyecto_final\Proyecto_programacion_4\DAL\obj\Debug\DAL.dll
+C:\Users\Kenneth\Desktop\Proyecto_final\Proyecto_programacion_4\DAL\obj\Debug\DAL.pdb

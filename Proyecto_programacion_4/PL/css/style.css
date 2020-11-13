@@ -17,6 +17,7 @@ body {
     text-align: center;
     display: flex;
     justify-content: center;
+    color: white;
 }
 
 header {
@@ -34,30 +35,8 @@ video {
 
 }
 
-.conte{
-
-  
-    margin: auto;
+#tarea {
     text-align:center;
-
-
+     color: white;
 }
 
-.navegar {
-    width: 1000px;
-    margin: 30px auto;
-    /* background: white;*/
-}
-
-.navegar ul{
-    list-style: none;
-
-
-
-}
-
-.menu > li {
-    /*  position: relative; */
-    display: inline-block;
-
-}

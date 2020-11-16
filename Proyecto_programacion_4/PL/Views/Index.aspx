@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="PL.Views.Index1" %>
+
+<!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
@@ -16,8 +18,8 @@
         </video>
 
         <header>
-
             <h1> VINTAGE FOOD </h1>
+            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
 
             <div class="menu">
                 <ul>
@@ -25,7 +27,7 @@
                     <li><a href="#">Sobre nosotros</a></li>
                     <li><a href="#">Servicios</a></li>
                     <li><a href="#">Contacto</a></li>
-                    <li><a href="#">Inicia Sesión</a></li>
+                    <li><a href="#">Inicia Sesión</a></li>  
                 </ul>
                 <button class="sidebarBtn">
                     <span></span>

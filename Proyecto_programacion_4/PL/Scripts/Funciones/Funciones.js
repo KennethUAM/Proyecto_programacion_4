@@ -6,3 +6,12 @@
     })
 
 })
+
+$("#Drop").toggle();
+    };
+
+// Set effect from select menu value
+$("#button").on("click", function () {
+    runEffect();
+});
+  } );

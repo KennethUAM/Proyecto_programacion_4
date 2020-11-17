@@ -22,23 +22,21 @@
             <div class="overlay"</div>
             <div class="absolute">
                 <h1>Bienvenido a Vintage Food</h1>
-            </div>     
-       
-
-            <nav class="menu">
+            </div>
+            <div class="menu">
                 <ul>
                     <li><a href="#">Home</a></li>
                     <li><a href="#">Sobre nosotros</a></li>
                     <li><a href="#">Servicios</a></li>
                     <li><a href="#">Contacto</a></li>
                     <li><a href="#">Inicia Sesión</a></li>  
+
                 </ul>
-                <button class="sidebarBtn">
+
+                  <button class="button">
                     
                 </button>
-            </nav>
-            
-            <div>
+            </div>
                 
                 <asp:Label id="Label1" runat="server" Text="AQUI HAY TEXTO"></asp:Label>
                
@@ -49,11 +47,8 @@
         </header>
 
     </form>
-
-    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script src="/Scripts/Funciones/Funciones.js"></script>
-</body>
-
-
-
+      <script src="/Scripts/Funciones/Funciones.js"></script>
+      <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+      <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+ </body>
 </html>

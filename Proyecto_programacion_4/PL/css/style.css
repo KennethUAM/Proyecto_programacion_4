@@ -44,16 +44,14 @@ video {
 
 
 .menu{
-
-    position:fixed;
-    top:0;
+    position: fixed;
+    top: 0;
     left: 0;
     background: #262626;
     width: 250px;
     height: 100%;
     transition: .3s;
     font-size: 25px;
-
 }
 
 /*.active

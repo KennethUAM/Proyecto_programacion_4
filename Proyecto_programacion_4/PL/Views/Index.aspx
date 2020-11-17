@@ -6,20 +6,20 @@
 <head runat="server">
 
     <link href="/css/style.css" rel="stylesheet" />
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet"/>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 
     <title>Vintage Food</title>
 </head>
-<body background="../Images/Index.jpg">
+<body background ="/Images/Index.jpg">
     <form id="form1" runat="server">
 <%--        <video src="../Images/Fondo_Index.mp4" autoplay loop>
         </video>--%>
 
         <header>
-            <div class="overlay"</div>
+            <div class="overlay"></div>
             <div class="absolute">
                 <h1>Bienvenido a Vintage Food</h1>
             </div>
@@ -40,8 +40,8 @@
                 
                 <asp:Label id="Label1" runat="server" Text="AQUI HAY TEXTO"></asp:Label>
                
-</div>
 
+        <%--   Esto es una prueba--%>
 
 
         </header>
